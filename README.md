@@ -45,6 +45,29 @@ This project provides a comprehensive framework for designing a pile group found
 
 ![image](https://github.com/user-attachments/assets/1e1bd171-9290-45d0-bd0e-16f705c3eb87)
 
+Analysis for a single pile for the same loading conditions, the load is factored accordingly i.e; dividing the 1200 kN over 9 piles udsing the software of Geo5 Pile. The following things mentioned are the results from the software. The whole analysis is done with the given particulars.
+
+![image](https://github.com/user-attachments/assets/cd00c995-775d-4d00-bea8-ea4286def546)
+The above image shows how a single pile is safe in the bearing capacity analysis.
+
+Upcoming image shows how a single pile will have settlement with the given load conditions.
+
+![image](https://github.com/user-attachments/assets/6f8e7561-5f8e-4ef3-9d50-98ffcbe18faf)
+
+![image](https://github.com/user-attachments/assets/936303ff-8d15-42c7-a1a1-87d2546749f0)
+These are graphs obtained from the software foe the given pile and its loading conditions.
+
+This software also helps in designing of the pile. The results are as follows:
+![image](https://github.com/user-attachments/assets/9709f46f-3be1-43ec-b670-df18d4151a52)
+
+
+![image](https://github.com/user-attachments/assets/4e3110a0-c51c-46f8-a08a-85c6fc681f73)
+Above mentioned are the detailing of the pile under the guven loading conditions including the reinforcement , clear cover , reinforcement diameter and so on.
+
+
+
+
+
 
 
 
